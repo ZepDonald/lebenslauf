@@ -8,6 +8,8 @@ Eine Führungskraft kann sich etwa um die Organisation (und das Budget) für Sch
 
 Eine Führungskraft benötigt dabei nur wenig fachliches Verständnis. Genau genommen muss das fachliche Verständnis in dem Maße vorhanden sein, um einzuschätzen, wie gut die Fachkenntnisse der Mitarbeiter sind.
 
+---
+
 [^general]:
     Wobei auch dieses Bild mittlerweile überholt ist. Der Krieg in der Ukraine hat genau diesen Paradigmenwechsel in der militärischen Führung eindrucksvoll bewiesen.
     Die Ukraine setzt vor allem auf kleine, unabhängige Truppenverbände. Diese agieren deutlich schneller und reagieren vor allem deutlich zügiger auf neue Situationen. Mit diesen kleinen, schnellen „Nadelstichen“ konnte die Ukraine seit beginn des Krieges einige Erfolge erzielen, die Ihnen vorher niemand zugetraut hätte.
